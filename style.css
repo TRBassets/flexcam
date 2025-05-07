@@ -61,7 +61,7 @@ header h1 {
   color: #4ade80;
 }
 
-/* TRAILER FRAME */
+/* TRAILER & TIMELAPSE FRAME */
 .video-wrapper {
   position: relative;
   width: 100%;
@@ -173,6 +173,17 @@ header h1 {
 .testimonial-section span {
   font-style: normal;
   color: #aaa;
+}
+
+/* TIMELAPSE SECTION */
+.timelapse-section {
+  text-align: center;
+  margin: 3rem 0 2.5rem;
+}
+.timelapse-section h2 {
+  color: #4ade80;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
 }
 
 /* ANIMATIONS */
